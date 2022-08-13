@@ -2,4 +2,4 @@
 
 ### Script Generator of Director Wong Kar wai-style
   
-DEMO (Hugging Face) : [LINK](https://huggingface.co/spaces/Hantaeha/wong_karwai)
+DEMO (Hugging Face) : [LINK](https://huggingface.co/spaces/Hantaeha/wong_karwai_script_generator)
