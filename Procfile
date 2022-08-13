@@ -1,1 +1,1 @@
-worker: python parsingPost.py
+web: sh setup.sh && streamlit run wong_karwai.py
